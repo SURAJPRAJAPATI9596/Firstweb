@@ -34,7 +34,7 @@ border-bottom-left-radius:10px;
 #poster{
   width:950px;
   height:950px;
-  background-image:url("/1st.jpeg");
+  background-image:url("1st.jpeg");
   background-size:cover;
   display:flex;
   justify-content:center;
