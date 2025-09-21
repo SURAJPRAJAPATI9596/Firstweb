@@ -1,0 +1,171 @@
+/*index page style*/
+
+*{margin: 0px 0px 0px 5px;
+#status{position:fixed;}
+}
+body{margin-botto:50px;}
+#top{width:950px;
+  height:70px;
+  color:white;
+  background-color: #020D11;
+  font-size:3rem;
+  font-weight:900 ;
+  text-align: center;
+}
+#navbar{width:950px;
+height:50px;
+background-color:
+#3B4F57;
+display:flex;
+flex-direction: row;
+justify-content: space-evenly;
+border-bottom-right-radius:10px;
+border-bottom-left-radius:10px;
+  text-decoration:none;
+}
+
+#nav{
+  color:white;
+  font-weight:900;
+  font-size:2rem;
+  color: white;
+
+ }
+#poster{
+  width:950px;
+  height:950px;
+  background-image:url("/1st.jpeg");
+  background-size:cover;
+  display:flex;
+  justify-content:center;
+}
+
+
+#wlc{color:red;
+  font-size:25px;
+  margin-top:150px;
+}
+
+
+ #indexp1{
+   text-align:justify;
+   width:900px;
+   font-size:40px;
+   margin:10px 5px 0px 10px;
+ }
+ 
+#card{display:flex;
+  width:900px;
+height:210px;
+justify-content: space-evenly ;
+background-color:#156B79;
+}
+.card{width:300px;
+  height:200px;
+  background-color:#DEE5E6;
+  margin:5px 10px 5px 10px;
+  text-align:justify;
+  padding:0px 10px 0px 10px ;
+  font-size:20px;
+}
+
+
+#student{display:flex;
+  width:900px;
+height:210px;
+justify-content: space-evenly ;
+background-color:#156B79;
+}
+.student{width:300px;
+  height:200px;
+  background-color:#DEE5E6;
+  margin:5px 10px 5px 10px;
+  text-align:justify;
+  padding:0px 10px 0px 10px ;
+  font-size:20px;
+}
+ul{font-size:40px;}
+
+
+
+
+/* ADMISSION FORM STYLE */
+
+
+#container{
+  text-align:left;
+  width:350px;
+  margin-left:300px;
+  font-size:20px;
+  background-color:#5DD126;
+line-height:30px;
+padding: 0px 0px 0px 0px;
+border:2px solid black;
+font-weight:400;
+}
+#container2{
+  margin-left:30px;
+}
+#submit{ background-color:blue;
+  width:200px;
+  margin-left:10px;
+}
+#reset{background-color:red;#5DD126}
+
+
+
+/* courses css */
+ #p1{ font-size:40px;
+ text-align: justify ;
+ }
+ #courseh1{background-color:blue;
+   width:700px;
+   border:2px solid black;
+   border-top-right-radius:75%;
+   color:white;
+ }
+ pre{text-align:justify;
+   font-size:40px;
+   font-weight:600;
+ }
+
+/*RESULTS CSS*/
+
+#card{display:flex;
+  width:900px;
+height:210px;
+justify-content: space-evenly ;
+background-color:#156B79;
+}
+.card{width:300px;
+  height:200px;
+  background-color:#DEE5E6;
+  margin:5px 10px 5px 10px;
+  text-align:justify;
+  padding:0px 10px 0px 10px ;
+  font-size:20px;
+}
+
+/*Style for book */
+
+#bookcontainer{
+  border:2px solid black;
+  height:500px;
+  width:400px;
+  font-size:30px;
+text-align:left;
+margin-left:200px;
+background-color:#8E8319;
+}
+
+#bookp1{font-size:40px;
+  text-align:justify ;
+  margin:10px 10px 10px 10px;
+}
+
+#add{background-image:url("/1st.jpeg");
+  background-size:cover;
+  opacity:o.1;
+}#CCFF00
+ 
+ 
