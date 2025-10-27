@@ -21,14 +21,13 @@ flex-direction: row;
 justify-content: space-evenly;
 border-bottom-right-radius:10px;
 border-bottom-left-radius:10px;
-  text-decoration:none;
-}
-
+     }
 #nav{
   color:white;
   font-weight:900;
   font-size:2rem;
   color: white;
+  text-decoration:none;
 
  }
 #poster{
